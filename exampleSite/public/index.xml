@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TR4C3</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on TR4C3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autores de Hugo</title>
+      <link>http://localhost:1313/autores/autores-de-hugo/</link>
+      <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
+      <guid>http://localhost:1313/autores/autores-de-hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>temas</title>
+      <link>http://localhost:1313/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      <guid>http://localhost:1313/categoria/temas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sintaxe</title>
+      <link>http://localhost:1313/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      <guid>http://localhost:1313/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Códigos curtos</title>
+      <link>http://localhost:1313/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      <guid>http://localhost:1313/tags/shortcodes/_index.pt-br/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I&amp;rsquo;m a student studying Electrical and Computer Engineering at Amrita Vishwa Vidyapeetham. I&amp;rsquo;m also a cybersecurity enthusiast, working with team bi0s.&#xA;I love finding and fixing security problems to make the internet safer for everyone.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Contact me, @keerthiprabup@gmail.com</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    <item>
+      <title>TBD</title>
+      <link>http://localhost:1313/posts/tbd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tbd/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
